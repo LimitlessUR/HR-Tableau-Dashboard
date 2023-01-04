@@ -9,7 +9,7 @@ Dashboard complete with 7 interactive graphs to answer the following inquiries a
 - Job Satisfaction Rating 
 - Education Field Wise Attrition 
 - Attrition Rate by Gender for Different Age Group 
-
+***
 Step 1 Import data into Tableau 
 
 ![HR data](https://user-images.githubusercontent.com/86543368/210623362-d9d674ae-693a-423d-b886-a41b573c6b1f.png)
