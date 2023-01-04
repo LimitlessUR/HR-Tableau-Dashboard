@@ -1,6 +1,7 @@
 # HR-Tableau-Dashboard-Business-Analysis
+***
 Full employee business analysis focused on employee satisfaction, attrition, and education. 
-
+***
 Dashboard complete with 7 interactive graphs to answer the following inquiries and more. 
 - Employee count, attrition count, Attrition Rate, Active Employees, and Avg. Age 
 - Attrition by Gender
