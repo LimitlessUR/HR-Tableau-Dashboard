@@ -1,6 +1,6 @@
 # HR-Tableau-Dashboard-Business-Analysis
 
-## Full employee business analysis focused on employee satisfaction, attrition, and education. [Live Link] (https://public.tableau.com/app/profile/jeremiah.m3635/viz/HRDashboard_16728559448840/HRANAICSDASHBOARD?publish=yes)
+## Full employee business analysis focused on employee satisfaction, attrition, and education. [Live Link](https://public.tableau.com/app/profile/jeremiah.m3635/viz/HRDashboard_16728559448840/HRANAICSDASHBOARD?publish=yes)
 
 Dashboard complete with 7 interactive graphs to answer the following inquiries and more. 
 - Employee count, attrition count, Attrition Rate, Active Employees, and Avg. Age 
